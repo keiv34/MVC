@@ -1,0 +1,17 @@
+p {
+    font-size: 16pt ;
+    color: blue;
+}
+
+em {
+    font-weight: bold;
+    color: black;
+}
+
+h1{
+    font-family: tahoma, Helvetica, sans-serif;
+}
+#importante{
+    color: darkred;
+    font-size: 24px;
+}
